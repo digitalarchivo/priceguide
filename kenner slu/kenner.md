@@ -45,7 +45,7 @@
  1988    Kenner       Mlb        Pedro Guerrero              10                                                                                           
  1988    Kenner       Mlb         Ozzie Guillen              25                                                                                           
  1988    Kenner       Mlb          Tony Gwynn                70                                                                                           
- 1988    Kenner       Mlb       Mel Hall        .            15                                                                                           
+ 1988    Kenner       Mlb       Mel Hall                    15                                                                                           
  1988    Kenner       Mlb         Billy Hatcher              15                                                                                           
  1988    Kenner       Mlb           Von Hayes                15                                                                                           
  1988    Kenner       Mlb       Rickey Henderson             30                                                                                           
@@ -175,8 +175,8 @@
  1989    Kenner       Mlb          Glenn Davis               15                                                                                           
  1989    Kenner       Mlb          Mark Davis                55                                                                                           
  1989    Kenner       Mlb         Andre Dawson               20                                                                                           
- 1989    Kenner       Mlb       Rob Deer                     35                                                                                           
- 1989    Kenner       Mlb       Bo Diaz                      30                                                                                           
+ 1989    Kenner       Mlb         Rob Deer                   35                                                                                           
+ 1989    Kenner       Mlb         Bo Diaz                    30                                                                                           
  1989    Kenner       Mlb          Billy Doran               40                                                                                           
  1989    Kenner       Mlb         Doug Drabek                30                                                                                           
  1989    Kenner       Mlb        Shawon Dunston              20                                                                                           
@@ -191,15 +191,15 @@
  1989    Kenner       Mlb         Dan Gladden                33                                                                                           
  1989    Kenner       Mlb         Dwight Gooden              10                                                                                           
  1989    Kenner       Mlb          Mark Grace                33                                                                                           
- 1989    Kenner       Mlb        Mike Greenwell              12                                                                                           
+ 1989    Kenner       Mlb         Mike Greenwell             12                                                                                           
  1989    Kenner       Mlb         Mark Gubicza               15                                                                                           
- 1989    Kenner       Mlb        Pedro Guerrero              22                                                                                           
+ 1989    Kenner       Mlb         Pedro Guerrero             22                                                                                           
  1989    Kenner       Mlb         Ozzie Guillen              35                                                                                           
- 1989    Kenner       Mlb       Tony Gwynn      .            350                                                                                          
- 1989    Kenner       Mlb          Albert Hall               70                                                                                           
- 1989    Kenner       Mlb       Mel Hall        .            35                                                                                           
+ 1989    Kenner       Mlb         Tony Gwynn                350                                                                                          
+ 1989    Kenner       Mlb         Albert Hall                70                                                                                           
+ 1989    Kenner       Mlb         Mel Hall                   35                                                                                           
  1989    Kenner       Mlb         Billy Hatcher              15                                                                                           
- 1989    Kenner       Mlb           Von Hayes                12                                                                                           
+ 1989    Kenner       Mlb          Von Hayes                 12                                                                                           
  1989    Kenner       Mlb       Rickey Henderson             24                                                                                           
  1989    Kenner       Mlb         Mike Henneman              25                                                                                           
  1989    Kenner       Mlb        Keith Hernandez             14                                                                                           
@@ -212,11 +212,11 @@
  1989    Kenner       Mlb         Danny Jackson              30                                                                                           
  1989    Kenner       Mlb         Brook Jacoby               50                                                                                           
  1989    Kenner       Mlb          Chris James               17                                                                                           
- 1989    Kenner       Mlb       Dion James      .            110                                                                                          
- 1989    Kenner       Mlb       Gregg Jefferies 2            22                                                                                           
+ 1989    Kenner       Mlb       Dion James                  110                                                                                          
+ 1989    Kenner       Mlb       Gregg Jefferies              22                                                                                           
  1989    Kenner       Mlb       Doug Jones 60.00             60                                                                                           
  1989    Kenner       Mlb         Wally Joyner               14                                                                                           
- 1989    Kenner       Mlb       John Kruk       .            100                                                                                          
+ 1989    Kenner       Mlb       John Kruk                   100                                                                                          
  1989    Kenner       Mlb         Mark Langston              20                                                                                           
  1989    Kenner       Mlb        Carney Lansford             22                                                                                           
  1989    Kenner       Mlb         Barry Larkin               50                                                                                           
@@ -225,37 +225,37 @@
  1989    Kenner       Mlb           Al Leiter                35                                                                                           
  1989    Kenner       Mlb          Chet Lemon                18                                                                                           
  1989    Kenner       Mlb           Jose Lind                45                                                                                           
- 1989    Kenner       Mlb          Greg Maddux               250                                                                                          
+ 1989    Kenner       Mlb          Greg Maddux              250                                                                                          
  1989    Kenner       Mlb        Candy Maldonado             12                                                                                           
  1989    Kenner       Mlb         Mike Marshall              60                                                                                           
  1989    Kenner       Mlb         Don Mattingly              25                                                                                           
  1989    Kenner       Mlb         Willie McGee               60                                                                                           
- 1989    Kenner       Mlb       Mark McGwire 40.0            40                                                                                           
+ 1989    Kenner       Mlb       Mark McGwire                 40                                                                                           
  1989    Kenner       Mlb       Kevin McReynolds             15                                                                                           
  1989    Kenner       Mlb        Kevin Mitchell              18                                                                                           
- 1989    Kenner       Mlb         Chris Miller               120                                                                                          
+ 1989    Kenner       Mlb         Chris Miller              120                                                                                          
  1989    Kenner       Mlb         Paul Molitor               35                                                                                           
  1989    Kenner       Mlb          Jack Morris               20                                                                                           
  1989    Kenner       Mlb          Dale Murphy               28                                                                                           
  1989    Kenner       Mlb          Randy Myers               20                                                                                           
  1989    Kenner       Mlb          Matt Nokes                15                                                                                           
  1989    Kenner       Mlb        Mike Pagliarulo             20                                                                                           
- 1989    Kenner       Mlb       Dave Parker 25.00            25                                                                                           
+ 1989    Kenner       Mlb       Dave Parker                  25                                                                                           
  1989    Kenner       Mlb          Dan Pasqua                25                                                                                           
  1989    Kenner       Mlb           Tony Pena                40                                                                                           
  1989    Kenner       Mlb        Terry Pendleton             45                                                                                           
  1989    Kenner       Mlb         Melido Perez               30                                                                                           
  1989    Kenner       Mlb         Gerald Perry               45                                                                                           
  1989    Kenner       Mlb          Dan Plesac                40                                                                                           
- 1989    Kenner       Mlb       Kirby Puckett 40.            40                                                                                           
+ 1989    Kenner       Mlb       Kirby Puckett                40                                                                                           
  1989    Kenner       Mlb         Rey Quinones               65                                                                                           
  1989    Kenner       Mlb          Tim Raines                12                                                                                           
- 1989    Kenner       Mlb          Johnny Ray                100                                                                                          
+ 1989    Kenner       Mlb          Johnny Ray               100                                                                                          
  1989    Kenner       Mlb         Jeff Reardon               45                                                                                           
- 1989    Kenner       Mlb       Harold Reynolds 5            55                                                                                           
- 1989    Kenner       Mlb       Jim Rice        2            20                                                                                           
- 1989    Kenner       Mlb       Dave Righetti 16.            16                                                                                           
- 1989    Kenner       Mlb         Cal Ripken Jr              300                                                                                          
+ 1989    Kenner       Mlb       Harold Reynolds              55                                                                                           
+ 1989    Kenner       Mlb       Jim Rice                     20                                                                                           
+ 1989    Kenner       Mlb       Dave Righetti                16                                                                                           
+ 1989    Kenner       Mlb         Cal Ripken Jr             300                                                                                          
  1989    Kenner       Mlb         Jeff Russell               50                                                                                           
  1989    Kenner       Mlb        Bret Saberhagen             16                                                                                           
  1989    Kenner       Mlb          Chris Sabo                20                                                                                           
@@ -263,9 +263,9 @@
  1989    Kenner       Mlb          Juan Samuel               10                                                                                           
  1989    Kenner       Mlb         Ryne Sandberg              30                                                                                           
  1989    Kenner       Mlb        Benito Santiago             40                                                                                           
- 1989    Kenner       Mlb         Mike Schmidt               -40                                                                                          
- 1989    Kenner       Mlb        Dick Schofield              100                                                                                          
- 1989    Kenner       Mlb         Mike Scioscia              175                                                                                          
+ 1989    Kenner       Mlb         Mike Schmidt               40                                                                                          
+ 1989    Kenner       Mlb        Dick Schofield             100                                                                                          
+ 1989    Kenner       Mlb         Mike Scioscia             175                                                                                          
  1989    Kenner       Mlb          Mike Scott                10                                                                                           
  1989    Kenner       Mlb         Kevin Seitzer              12                                                                                           
  1989    Kenner       Mlb         Larry Sheets               28                                                                                           
@@ -282,29 +282,29 @@
  1989    Kenner       Mlb         Dave Stewart               25                                                                                           
  1989    Kenner       Mlb        Kurt Stillwell              15                                                                                           
  1989    Kenner       Mlb       Darryl Strawberry            10                                                                                           
- 1989    Kenner       Mlb         B.J. Surhoff               150                                                                                          
+ 1989    Kenner       Mlb         B.J. Surhoff              150                                                                                          
  1989    Kenner       Mlb        Rick Sutcliffe              20                                                                                           
- 1989    Kenner       Mlb         Bruce Sutter               125                                                                                          
- 1989    Kenner       Mlb       Greg Swindell 45.            45                                                                                           
+ 1989    Kenner       Mlb         Bruce Sutter              125                                                                                          
+ 1989    Kenner       Mlb       Greg Swindell                45                                                                                           
  1989    Kenner       Mlb          Pat Tabler                13                                                                                           
  1989    Kenner       Mlb        Danny Tartabull             12                                                                                           
  1989    Kenner       Mlb         Bobby Thigpen              55                                                                                           
  1989    Kenner       Mlb         Milt Thompson              30                                                                                           
  1989    Kenner       Mlb        Robby Thompson              15                                                                                           
  1989    Kenner       Mlb         Alan Trammell              15                                                                                           
- 1989    Kenner       Mlb         Jeff Treadway              35                                                                                           
+ 1989    Kenner       Mlb          Jeff Treadway             35                                                                                           
  1989    Kenner       Mlb          Jose Uribe                15                                                                                           
- 1989    Kenner       Mlb       Fernando Valenzue            35                                                                                           
- 1989    Kenner       Mlb        Andy Van Slyke              18                                                                                           
+ 1989    Kenner       Mlb          Fernando Valenzue         35                                                                                           
+ 1989    Kenner       Mlb          Andy Van Slyke            18                                                                                           
  1989    Kenner       Mlb          Frank Viola               12                                                                                           
- 1989    Kenner       Mlb       Bob Walk       .             30                                                                                           
+ 1989    Kenner       Mlb          Bob Walk                  30                                                                                           
  1989    Kenner       Mlb          Greg Walker               25                                                                                           
  1989    Kenner       Mlb          Walt Weiss                20                                                                                           
- 1989    Kenner       Mlb       Bob Welch       .            22                                                                                           
- 1989    Kenner       Mlb         Lou Whitaker               25                                                                                           
- 1989    Kenner       Mlb          Devon White               150                                                                                          
+ 1989    Kenner       Mlb          Bob Welch                 22                                                                                           
+ 1989    Kenner       Mlb          Lou Whitaker              25                                                                                           
+ 1989    Kenner       Mlb          Devon White              150                                                                                          
  1989    Kenner       Mlb         Dave Winfield              30                                                                                           
- 1989    Kenner       Mlb          Mike Witt                 110                                                                                          
+ 1989    Kenner       Mlb          Mike Witt                110                                                                                          
  1989    Kenner       Mlb         Todd Worrell               14                                                                                           
  1989    Kenner       Mlb         Marvell Wynne              40                                                                                           
  1989    Kenner       Mlb         Gerald Young               25                                                                                           
@@ -315,7 +315,7 @@
  1989    Kenner       Mlb          Wade Boggs                50                                                                                           
  1989    Kenner       Mlb         Jose Canseco               40                                                                                           
  1989    Kenner       Mlb          Gary Carter               35                                                                                           
- 1989    Kenner       Mlb         Roger Clemens              200                                                                                          
+ 1989    Kenner       Mlb         Roger Clemens             200                                                                                          
  1989    Kenner       Mlb          Eric Davis                35                                                                                           
  1989    Kenner       Mlb         Andre Dawson               35                                                                                           
  1989    Kenner       Mlb          Gary Gaetti               35                                                                                           
@@ -325,30 +325,30 @@
  1989    Kenner       Mlb       Rickey Henderson             45                                                                                           
  1989    Kenner       Mlb         Wally Joyner               35                                                                                           
  1989    Kenner       Mlb         Don Mattingly              60                                                                                           
- 1989    Kenner       Mlb         Mark McGwire               200                                                                                          
+ 1989    Kenner       Mlb         Mark McGwire              200                                                                                          
  1989    Kenner       Mlb          Tim Raines                35                                                                                           
- 1989    Kenner       Mlb         Cal Ripken Jr             1000                                                                                          
+ 1989    Kenner       Mlb         Cal Ripken Jr             100                                                                                          
  1989    Kenner       Mlb          Chris Sabo                40                                                                                           
- 1989    Kenner       Mlb         Mike Schmidt               100                                                                                          
+ 1989    Kenner       Mlb         Mike Schmidt              100                                                                                          
  1989    Kenner       Mlb          Mike Scott                35                                                                                           
- 1989    Kenner       Mlb          Ozzie Smith               100                                                                                          
+ 1989    Kenner       Mlb          Ozzie Smith              100                                                                                          
  1989    Kenner       Mlb       Darryl Strawberry            35                                                                                           
  1989    Kenner       Mlb         Alan Trammell              35                                                                                           
  1989    Kenner       Mlb       Fernando Valenzue            35                                                                                           
  1989                                                                                                                                                     
- 1989    Kenner       Mlb       1989 Baseball Gre           1989                                                                                          
- 1989    Kenner       Mlb       "Ernie BanksBilly          40.00"                                                                                         
- 1989    Kenner       Mlb       "Johnny Bench Pet          65.00"                                                                                         
- 1989    Kenner       Mlb       "Don Drysdale Reg          60.00"                                                                                         
- 1989    Kenner       Mlb       "Mickey Mantle Jo          80.00"                                                                                         
- 1989    Kenner       Mlb       "Eddie Mathews Ha          50.00"                                                                                         
- 1989    Kenner       Mlb       "Willie MaysWilli          50.00"                                                                                         
- 1989    Kenner       Mlb       "Stan MusialBob G          50.00"                                                                                         
+ 1989    Kenner       Mlb       1989 Baseball Greatest     1989                                                                                          
+ 1989    Kenner       Mlb       "Ernie BanksBilly            40                                                                                        
+ 1989    Kenner       Mlb       "Johnny Bench Pet            60                                                                                     
+ 1989    Kenner       Mlb       "Don Drysdale Reg            60                                                                                      
+ 1989    Kenner       Mlb       "Mickey Mantle Jo            80                                                                                         
+ 1989    Kenner       Mlb       "Eddie Mathews Ha            50                                                                                        
+ 1989    Kenner       Mlb       "Willie MaysWilli            50                                                                                       
+ 1989    Kenner       Mlb       "Stan MusialBob G            50                                                                                       
  1989    Kenner       Mlb       "Babe Ruth  Lou G            55                                                                                           
  1989    Kenner       Mlb         (white/gray)               70                                                                                           
  1989    Kenner       Mlb         (white/white)              50                                                                                           
- 1989    Kenner       Mlb         (gray/white)             60.00"                                                                                         
- 1989    Kenner       Mlb       "Stargell Clement          80.00"                                                                                         
+ 1989    Kenner       Mlb         (gray/white)               60                                                                                         
+ 1989    Kenner       Mlb       "Stargell Clement            80                                                                                        
  1989    Kenner       Mlb       "Carl Yastrzemski                                                                                                         
  1989                                                                                                                                                     
  1990    Kenner       Mlb         1990 Baseball             1990                                                                                          
@@ -365,8 +365,8 @@
  1990    Kenner       Mlb          Chris Bosio               17                                                                                           
  1990    Kenner       Mlb          Ellis Burks               25                                                                                           
  1990    Kenner       Mlb         Jose Canseco               18                                                                                           
- 1990    Kenner       Mlb       Will Clark (Batti            10                                                                                           
- 1990    Kenner       Mlb       Will Clark (Power            15                                                                                           
+ 1990    Kenner       Mlb         Will Clark                 10                                                                                           
+ 1990    Kenner       Mlb         Will Clark                 15                                                                                           
  1990    Kenner       Mlb         Roger Clemens              35                                                                                           
  1990    Kenner       Mlb         Vince Coleman              10                                                                                           
  1990    Kenner       Mlb          Ron Darling               20                                                                                           
@@ -380,10 +380,10 @@
  1990    Kenner       Mlb       Andres Galarraga             20                                                                                           
  1990    Kenner       Mlb          Kirk Gibson               15                                                                                           
  1990    Kenner       Mlb         Dwight Gooden              10                                                                                           
- 1990    Kenner       Mlb       Mark Grace (Batti            18                                                                                           
- 1990    Kenner       Mlb       Mark Grace (Power            20                                                                                           
+ 1990    Kenner       Mlb           Mark Grace               18                                                                                           
+ 1990    Kenner       Mlb           Mark Grace               20                                                                                           
  1990    Kenner       Mlb        Mike Greenwell              10                                                                                           
- 1990    Kenner       Mlb       "Ken Griffey Jr.             80                                                                                           
+ 1990    Kenner       Mlb        Ken Griffey Jr.             80                                                                                           
  1990    Kenner       Mlb           (Jumping)                70                                                                                           
  1990    Kenner       Mlb        Pedro Guerrero              22                                                                                           
  1990    Kenner       Mlb           Von Hayes                10                                                                                           
@@ -398,26 +398,26 @@
  1990    Kenner       Mlb        Rickey Jordan               12                                                                                           
  1990    Kenner       Mlb         Roberto Kelly              15                                                                                           
  1990    Kenner       Mlb         Barry Larkin               30                                                                                           
- 1990    Kenner       Mlb          Greg Maddux               325                                                                                          
+ 1990    Kenner       Mlb          Greg Maddux              325                                                                                          
  1990    Kenner       Mlb          Joe Magrane               30                                                                                           
- 1990    Kenner       Mlb       Don Mattingly (Ba            20                                                                                           
+ 1990    Kenner       Mlb       Don Mattingly                20                                                                                           
  1990    Kenner       Mlb        (Power)                     24                                                                                           
  1990    Kenner       Mlb         Fred McGriff               40                                                                                           
  1990    Kenner       Mlb         Mark McGwire               35                                                                                           
  1990    Kenner       Mlb       Kevin McReynolds             10                                                                                           
  1990    Kenner       Mlb        Kevin Mitchell              12                                                                                           
  1990    Kenner       Mlb         Paul Molitor               25                                                                                           
- 1990    Kenner       Mlb        Eddie Murray .              110                                                                                          
+ 1990    Kenner       Mlb        Eddie Murray               110                                                                                          
  1990    Kenner       Mlb          Matt Nokes                12                                                                                           
  1990    Kenner       Mlb         Paul O’Neill               70                                                                                           
  1990    Kenner       Mlb         Jose Oquendo               80                                                                                           
  1990    Kenner       Mlb          Gary Pettis               50                                                                                           
  1990    Kenner       Mlb         Kirby Puckett              30                                                                                           
- 1990    Kenner       Mlb       Willie Randolph..            25                                                                                           
+ 1990    Kenner       Mlb       Willie Randolph.             25                                                                                           
  1990    Kenner       Mlb          Jody Reed                 20                                                                                           
  1990    Kenner       Mlb         Rick Reuschel              15                                                                                           
  1990    Kenner       Mlb        Dave Righetti               15                                                                                           
- 1990    Kenner       Mlb         Cal Ripken Jr              120                                                                                          
+ 1990    Kenner       Mlb         Cal Ripken Jr             120                                                                                          
  1990    Kenner       Mlb          Nolan Ryan                40                                                                                           
  1990    Kenner       Mlb          Chris Sabo                12                                                                                           
  1990    Kenner       Mlb          Juan Samuel               12                                                                                           
@@ -438,7 +438,7 @@
  1990    Kenner       Mlb         Jerome Walton              10                                                                                           
  1990    Kenner       Mlb         Lou Whitaker               20                                                                                           
  1990    Kenner       Mlb        Mitch Williams              20                                                                                           
- 1990    Kenner       Mlb         Dave Winfield              -25                                                                                          
+ 1990    Kenner       Mlb         Dave Winfield              25                                                                                          
  1990    Kenner       Mlb          Robin Yount               35                                                                                           
  1990                                                                                                                                                     
  1990    Kenner       Mlb         1990 Extended             1990                                                                                          
@@ -483,7 +483,7 @@
  1991    Kenner       Mlb        Kevin Maas 9.00              9                                                                                           
  1991    Kenner       Mlb         Dave Magadan               10                                                                                           
  1991    Kenner       Mlb        Ramon Martinez              14                                                                                           
- 1991    Kenner       Mlb         Don Mattingly              -18                                                                                          
+ 1991    Kenner       Mlb         Don Mattingly              18                                                                                          
  1991    Kenner       Mlb         Ben McDonald               10                                                                                           
  1991    Kenner       Mlb         Mark McGwire               25                                                                                           
  1991    Kenner       Mlb        Kevin Mitchell              10                                                                                           
@@ -538,7 +538,7 @@
  1992    Kenner       Mlb          Tom Glavine               40                                                                                           
  1992    Kenner       Mlb         Juan Gonzalez              20                                                                                           
  1992    Kenner       Mlb       Ken Griffey Jr.              35                                                                                           
- 1992    Kenner       Mlb        (Swing)       .             35                                                                                           
+ 1992    Kenner       Mlb        (Swing)       ..            35                                                                                           
  1992    Kenner       Mlb          Tony Gwynn                35                                                                                           
  1992    Kenner       Mlb        Dave Henderson               7                                                                                           
  1992    Kenner       Mlb       Rickey Henderson             15                                                                                           
@@ -565,7 +565,7 @@
  1992    Kenner       Mlb          Steve Avery               12                                                                                           
  1992    Kenner       Mlb         Bobby Bonilla               8                                                                                           
  1992    Kenner       Mlb          Eric Davis                 8                                                                                           
- 1992    Kenner       Mlb        Kirby Puckett .             20                                                                                           
+ 1992    Kenner       Mlb        Kirby Puckett               20                                                                                           
  1992    Kenner       Mlb        Bret Saberhagen              8                                                                                           
  1992    Kenner       Mlb          Tom Seaver                24                                                                                           
  1992    Kenner       Mlb        Danny Tartabull             10                                                                                           
@@ -578,7 +578,7 @@
  1992    Kenner       Mlb        Ken Griffey Jr              40                                                                                           
  1992    Kenner       Mlb       Rickey Henderson             25                                                                                           
  1992    Kenner       Mlb          Bo Jackson                17                                                                                           
- 1992    Kenner       Mlb          Nolan Ryan                -45                                                                                          
+ 1992    Kenner       Mlb          Nolan Ryan                45                                                                                          
  1992    Kenner       Mlb         Ryne Sandberg              40                                                                                           
  1992                                                                                                                                                     
  1993    Kenner       Mlb         1993 Baseball             1993                                                                                          
@@ -589,10 +589,10 @@
  1993    Kenner       Mlb          Kevin Brown               15                                                                                           
  1993    Kenner       Mlb         Jose Canseco                8                                                                                           
  1993    Kenner       Mlb          Will Clark                 8                                                                                           
- 1993    Kenner       Mlb         Roger Clemens            25.00-                                                                                         
+ 1993    Kenner       Mlb         Roger Clemens              25                                                                                        
  1993    Kenner       Mlb          David Cone                10                                                                                           
  1993    Kenner       Mlb        Travis Fryman               10                                                                                           
- 1993    Kenner       Mlb          Tom Glavine             20.00-                                                                                         
+ 1993    Kenner       Mlb          Tom Glavine               20                                                                                       
  1993    Kenner       Mlb         Juan Gonzalez              15                                                                                           
  1993    Kenner       Mlb        Ken Griffey Jr              30                                                                                           
  1993    Kenner       Mlb        Marquis Grissom             12                                                                                           
@@ -608,10 +608,10 @@
  1993    Kenner       Mlb         Mark McGwire               20                                                                                           
  1993    Kenner       Mlb          Dean Palmer               25                                                                                           
  1993    Kenner       Mlb        Terry Pendleton             10                                                                                           
- 1993    Kenner       Mlb       Kirby Puckett 15.             8                                                                                           
+ 1993    Kenner       Mlb       Kirby Puckett                 8                                                                                           
  1993    Kenner       Mlb         Cal Ripken Jr              15                                                                                           
- 1993    Kenner       Mlb       Bip Roberts 9.00             33                                                                                           
- 1993    Kenner       Mlb       Nolan Ryan (Regul             9                                                                                           
+ 1993    Kenner       Mlb       Bip Roberts                  33                                                                                           
+ 1993    Kenner       Mlb       Nolan Ryan (Regular)          9                                                                                           
  1993    Kenner       Mlb         Ryne Sandberg              30                                                                                           
  1993    Kenner       Mlb        Gary Sheffield              15                                                                                           
  1993    Kenner       Mlb          John Smoltz               14                                                                                           
@@ -621,12 +621,12 @@
  1993    Kenner       Mlb        Larry Walker 1              15                                                                                           
  1993                                                                                                                                                     
  1993    Kenner       Mlb         1993 Extended             1993                                                                                          
- 1993    Kenner       Mlb       Barry Bonds (Gian            40                                                                                           
+ 1993    Kenner       Mlb       Barry Bonds (Giants)         40                                                                                           
  1993    Kenner       Mlb         Carlton Fisk               20                                                                                           
  1993    Kenner       Mlb          Bo Jackson                10                                                                                           
  1993    Kenner       Mlb          Greg Maddux               50                                                                                           
  1993    Kenner       Mlb          David Neid                10                                                                                           
- 1993    Kenner       Mlb       Nolan Ryan (Retir            70                                                                                           
+ 1993    Kenner       Mlb       Nolan Ryan (Retired)         70                                                                                           
  1993    Kenner       Mlb        Benito Santiago             10                                                                                           
  1993                                                                                                                                                     
  1993    Kenner       Mlb    1993 Headline Baseball         1993                                                                                          
@@ -664,8 +664,8 @@
  1994    Kenner       Mlb          Chad Curtis               10                                                                                           
  1994    Kenner       Mlb        Darren Daulton              12                                                                                           
  1994    Kenner       Mlb       Delino DeShields              8                                                                                           
- 1994    Kenner       Mlb       Alex Fernandez 7.             7                                                                                           
- 1994    Kenner       Mlb       Cecil Fielder 8.0             8                                                                                           
+ 1994    Kenner       Mlb       Alex Fernandez                7                                                                                           
+ 1994    Kenner       Mlb       Cecil Fielder                 8                                                                                           
  1994    Kenner       Mlb       Andres Galarraga              8                                                                                           
  1994    Kenner       Mlb          Mark Grace                 8                                                                                           
  1994    Kenner       Mlb         Tommy Greene                8                                                                                           
@@ -677,9 +677,9 @@
  1994    Kenner       Mlb         Dave Hollins               10                                                                                           
  1994    Kenner       Mlb        Gregg Jefferies              7                                                                                           
  1994    Kenner       Mlb         Randy Johnson              30                                                                                           
- 1994    Kenner       Mlb       David Justice 10.            10                                                                                           
+ 1994    Kenner       Mlb       David Justice                10                                                                                           
  1994    Kenner       Mlb          Eric Karros                8                                                                                           
- 1994    Kenner       Mlb       Jimmy Key       .            15                                                                                           
+ 1994    Kenner       Mlb          Jimmy Key                 15                                                                                           
  1994    Kenner       Mlb          Darryl Kile               25                                                                                           
  1994    Kenner       Mlb        Chuck Knoblauch             10                                                                                           
  1994    Kenner       Mlb         Mark Langston               8                                                                                           
@@ -695,26 +695,26 @@
  1994    Kenner       Mlb        Ivan Rodriguez              30                                                                                           
  1994    Kenner       Mlb          Tim Salmon                20                                                                                           
  1994    Kenner       Mlb         Ryne Sandberg              15                                                                                           
- 1994    Kenner       Mlb        Curt Schilling              -25                                                                                          
- 1994    Kenner       Mlb       Gary Sheffield (R            10                                                                                           
+ 1994    Kenner       Mlb        Curt Schilling              25                                                                                          
+ 1994    Kenner       Mlb       Gary Sheffield               10                                                                                           
  1994    Kenner       Mlb           J.T. Snow                12                                                                                           
  1994    Kenner       Mlb         Frank Thomas               15                                                                                           
  1994    Kenner       Mlb        Robby Thompson               7                                                                                           
  1994    Kenner       Mlb          Greg Vaughn                7                                                                                           
- 1994    Kenner       Mlb       Mo Vaughn       .            12                                                                                           
+ 1994    Kenner       Mlb           Mo Vaughn                12                                                                                           
  1994    Kenner       Mlb         Robin Ventura              10                                                                                           
  1994    Kenner       Mlb         Matt Williams              10                                                                                           
  1994    Kenner       Mlb         Dave Winfield              10                                                                                           
  1994                                                                                                                                                     
  1994    Kenner       Mlb         1994 Extended             1994                                                                                          
- 1994    Kenner       Mlb       Steve Carlton (HO            18                                                                                           
- 1994    Kenner       Mlb       Will Clark 10.00             10                                                                                           
+ 1994    Kenner       Mlb          Steve Carlton             18                                                                                           
+ 1994    Kenner       Mlb           Will Clark               10                                                                                           
  1994    Kenner       Mlb         Lenny Dykstra              12                                                                                           
  1994    Kenner       Mlb         Juan Gonzalez              15                                                                                           
  1994    Kenner       Mlb         Kenny Lofton               22                                                                                           
  1994    Kenner       Mlb         Fred McGriff               15                                                                                           
  1994    Kenner       Mlb        Rafael Palmeiro             12                                                                                           
- 1994    Kenner       Mlb       Gary Sheffield (P            10                                                                                           
+ 1994    Kenner       Mlb       Gary Sheffield               10                                                                                           
  1994                                                                                                                                                     
  1994    Kenner       Mlb       1994 StadiumStars           1994                                                                                          
  1994    Kenner       Mlb          Barry Bonds               55                                                                                           
@@ -723,15 +723,15 @@
  1994    Kenner       Mlb          Tom Glavine               20                                                                                           
  1994    Kenner       Mlb         Juan Gonzalez              20                                                                                           
  1994    Kenner       Mlb          Bo Jackson                45                                                                                           
- 1994    Kenner       Mlb       Kirby Puckett 25.            25                                                                                           
- 1994    Kenner       Mlb       Deion Sanders 35.            35                                                                                           
+ 1994    Kenner       Mlb       Kirby Puckett                25                                                                                           
+ 1994    Kenner       Mlb       Deion Sanders                35                                                                                           
  1994                                                                                                                                                     
  1994    Kenner       Mlb       1994 Cooperstown            1994                                                                                          
- 1994    Kenner       Mlb       Ty Cobb                      14                                                                                           
+ 1994    Kenner       Mlb            Ty Cobb                 14                                                                                           
  1994    Kenner       Mlb          Lou Gehrig                17                                                                                           
  1994    Kenner       Mlb        Reggie Jackson              30                                                                                           
  1994    Kenner       Mlb          Willie Mays               20                                                                                           
- 1994    Kenner       Mlb       Jackie Robinson              42)                                                                                          
+ 1994    Kenner       Mlb       Jackie Robinson              42                                                                                        
  1994    Kenner       Mlb       Jackie Robinson              375                                                                                          
  1994    Kenner       Mlb           Babe Ruth                20                                                                                           
  1994    Kenner       Mlb         Honus Wagner               30                                                                                           
@@ -784,27 +784,27 @@
  1995    Kenner       Mlb          John Olerud                8                                                                                           
  1995    Kenner       Mlb         Paul O’Neill               10                                                                                           
  1995    Kenner       Mlb       Mike Piazza (Thro            30                                                                                           
- 1995    Kenner       Mlb       Kirby Puckett 10.            10                                                                                           
- 1995    Kenner       Mlb       Cal Ripken Jr. (R            35                                                                                           
+ 1995    Kenner       Mlb       Kirby Puckett                10                                                                                           
+ 1995    Kenner       Mlb       Cal Ripken Jr.           35                                                                                           
  1995    Kenner       Mlb          Tim Salmon                10                                                                                           
- 1995    Kenner       Mlb       Deion Sanders 15.            15                                                                                           
+ 1995    Kenner       Mlb       Deion Sanders            15                                                                                           
  1995    Kenner       Mlb        Reggie Sanders              15                                                                                           
- 1995    Kenner       Mlb       Sammy Sosa      .            40                                                                                           
+ 1995    Kenner       Mlb       Sammy Sosa                  40                                                                                           
  1995    Kenner       Mlb       Mickey Tettleton             15                                                                                           
  1995    Kenner       Mlb         Frank Thomas               12                                                                                           
  1995    Kenner       Mlb        Andy Van Slyke              10                                                                                           
- 1995    Kenner       Mlb       Mo Vaughn       .            10                                                                                           
+ 1995    Kenner       Mlb       Mo Vaughn                   10                                                                                           
  1995    Kenner       Mlb         Rick Wilkins                8                                                                                           
  1995    Kenner       Mlb         Matt Williams               7                                                                                           
  1995                                                                                                                                                     
  1995    Kenner       Mlb         1995 Extended             1995                                                                                          
  1995    Kenner       Mlb       Jose Canseco(Red             10                                                                                           
  1995    Kenner       Mlb          Rusty Greer               10                                                                                           
- 1995    Kenner       Mlb       Kenny Lofton 20.0            20                                                                                           
+ 1995    Kenner       Mlb       Kenny Lofton                 20                                                                                           
  1995    Kenner       Mlb         Tom Pagnozzi               10                                                                                           
- 1995    Kenner       Mlb       Mike Piazza (Batt            25                                                                                           
+ 1995    Kenner       Mlb       Mike Piazza                  25                                                                                           
  1995    Kenner       Mlb         Manny Ramirez              30                                                                                           
- 1995    Kenner       Mlb       Cal Ripken Jr. (S            60                                                                                           
+ 1995    Kenner       Mlb       Cal Ripken Jr.               60                                                                                           
  1995    Kenner       Mlb        Alex Rodriguez              100                                                                                          
  1995    Kenner       Mlb       Mike Schmidt(HOF)            15                                                                                           
  1995                                                                                                                                                     
@@ -813,18 +813,18 @@
  1995    Kenner       Mlb         Lenny Dykstra              18                                                                                           
  1995    Kenner       Mlb        Ken Griffey Jr              30                                                                                           
  1995    Kenner       Mlb         Randy Johnson              65                                                                                           
- 1995    Kenner       Mlb       David Justice 18.            18                                                                                           
+ 1995    Kenner       Mlb       David Justice                18                                                                                           
  1995    Kenner       Mlb          Greg Maddux               55                                                                                           
- 1995    Kenner       Mlb       Mark McGwire 50.0            50                                                                                           
+ 1995    Kenner       Mlb       Mark McGwire                 50                                                                                           
  1995    Kenner       Mlb         Frank Thomas               40                                                                                           
- 1995    Kenner       Mlb       Mo Vaughn       .            15                                                                                           
+ 1995    Kenner       Mlb       Mo Vaughn                    15                                                                                           
  1995                                                                                                                                                     
  1995    Kenner       Mlb       1995 Cooperstown            1995                                                                                          
- 1995    Kenner       Mlb       Rod Carew       .            12                                                                                           
+ 1995    Kenner       Mlb          Rod Carew                 12                                                                                           
  1995    Kenner       Mlb          Dizzy Dean                10                                                                                           
  1995    Kenner       Mlb         Don Drysdale               10                                                                                           
  1995    Kenner       Mlb          Bob Feller                10                                                                                           
- 1995    Kenner       Mlb       Whitey Ford 12.00            12                                                                                           
+ 1995    Kenner       Mlb          Whitey Ford               12                                                                                           
  1995    Kenner       Mlb          Bob Gibson                10                                                                                           
  1995    Kenner       Mlb       Harmon Killebrew             20                                                                                           
  1995    Kenner       Mlb         Eddie Mathews              25                                                                                           
@@ -832,43 +832,43 @@
  1995    Kenner       Mlb           Babe Ruth                18                                                                                           
  1995                                                                                                                                                     
  1996    Kenner       Mlb         1996 Baseball             1996                                                                                          
- 1996    Kenner       Mlb       Roberto Alomar 10            10                                                                                           
- 1996    Kenner       Mlb       Jeff Bagwell(whit            17                                                                                           
- 1996    Kenner       Mlb       Jeff Bagwell(blac            10                                                                                           
+ 1996    Kenner       Mlb       Roberto Alomar               10                                                                                           
+ 1996    Kenner       Mlb       Jeff Bagwell(white)          17                                                                                           
+ 1996    Kenner       Mlb       Jeff Bagwell(black)          10                                                                                           
  1996    Kenner       Mlb         Albert Belle                8                                                                                           
  1996    Kenner       Mlb         Craig Biggio               12                                                                                           
  1996    Kenner       Mlb          Barry Bonds               15                                                                                           
  1996    Kenner       Mlb          Ricky Bones                8                                                                                           
  1996    Kenner       Mlb          Rico Brogna                7                                                                                           
- 1996    Kenner       Mlb       Ken Caminiti 7.00             7                                                                                           
+ 1996    Kenner       Mlb       Ken Caminiti                  7                                                                                           
  1996    Kenner       Mlb        Vinny Castilla              12                                                                                           
- 1996    Kenner       Mlb        Will Clark 8.00              8                                                                                           
+ 1996    Kenner       Mlb        Will Clark                   8                                                                                           
  1996    Kenner       Mlb          David Cone                 8                                                                                           
  1996    Kenner       Mlb          Wil Cordero                7                                                                                           
  1996    Kenner       Mlb         Marty Cordova              15                                                                                           
- 1996    Kenner       Mlb       Shawon Dunston 10            10                                                                                           
+ 1996    Kenner       Mlb       Shawon Dunston               10                                                                                           
  1996    Kenner       Mlb         Lenny Dykstra               8                                                                                           
- 1996    Kenner       Mlb          Jim Edmonds              20.00                                                                                         
+ 1996    Kenner       Mlb          Jim Edmonds               20                                                                                      
  1996    Kenner       Mlb        Jim Eisenreich              10                                                                                           
  1996    Kenner       Mlb          Gary Gaetti                8                                                                                           
- 1996    Kenner       Mlb       Ron Gant        .             8                                                                                           
+ 1996    Kenner       Mlb           Ron Gant                  8                                                                                           
  1996    Kenner       Mlb       Ken Griffey Jr. (            20                                                                                           
  1996    Kenner       Mlb        Marquis Grissom             12                                                                                           
  1996    Kenner       Mlb         Ozzie Guillen              10                                                                                           
  1996    Kenner       Mlb         Brian Hunter               10                                                                                           
  1996    Kenner       Mlb          Derek Jeter               55                                                                                           
- 1996    Kenner       Mlb       Charles Johnson 1            15                                                                                           
+ 1996    Kenner       Mlb       Charles Johnson              15                                                                                           
  1996    Kenner       Mlb         Chipper Jones              100                                                                                          
  1996    Kenner       Mlb          Greg Maddux               30                                                                                           
  1996    Kenner       Mlb          Jeff Manto                10                                                                                           
  1996    Kenner       Mlb        Edgar Martinez              25                                                                                           
  1996    Kenner       Mlb         Fred McGriff                8                                                                                           
- 1996    Kenner       Mlb       Mark McGwire 20.0            20                                                                                           
+ 1996    Kenner       Mlb       Mark McGwire                 20                                                                                           
  1996    Kenner       Mlb         Raul Mondesi                8                                                                                           
- 1996    Kenner       Mlb       Eddie Murray 15.0            15                                                                                           
+ 1996    Kenner       Mlb       Eddie Murray                 15                                                                                           
  1996    Kenner       Mlb       Hideo Nomo (white            20                                                                                           
- 1996    Kenner       Mlb       (gray)         20            20                                                                                           
- 1996    Kenner       Mlb         Paul O’Neill               12                                                                                           
+ 1996    Kenner       Mlb       (gray)                       20                                                                                           
+ 1996    Kenncer       Mlb         Paul O’Neill               12                                                                                           
  1996    Kenner       Mlb          Mike Piazza               18                                                                                           
  1996    Kenner       Mlb       Kirby Puckett 20.            20                                                                                           
  1996    Kenner       Mlb       Cal Ripken Jr. (D            35                                                                                           
